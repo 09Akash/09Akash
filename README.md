@@ -23,5 +23,6 @@ Hello , <br>I am Akash Kadukar. <br>A Software Developer.<br>Completed engineeri
 
 ---
 [![](https://visitcount.itsvg.in/api?id=09Akash&icon=0&color=0)](https://visitcount.itsvg.in)
+![Visitor Count](https://profile-counter.glitch.me/{09Akash}/count.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
